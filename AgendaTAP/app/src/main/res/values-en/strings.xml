@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appointment book TAP</string>
+    <string name="login">User</string>
+    <string name="senha">Password</string>
+    <string name="nome">Name</string>
+    <string name="telefone">Phone</string>
+    <string name="endereco">Address</string>
+    <string name="email">Email</string>
+    <string name="site">Web Site</string>
+</resources>

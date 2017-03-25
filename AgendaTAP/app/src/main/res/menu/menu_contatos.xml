@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:suport="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_contatos_sobre"
+        android:title="Sobre"
+        suport:showAsAction="withText"/>
+    <item
+        android:id="@+id/menu_contatos_usuario"
+        android:title="Usuarios "
+        suport:showAsAction="withText"/>
+    <item
+        android:id="@+id/menuu_sair_contato"
+        android:title="Sair"
+        suport:showAsAction="withText"/>
+
+</menu>

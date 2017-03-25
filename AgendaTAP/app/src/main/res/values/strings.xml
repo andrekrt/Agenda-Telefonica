@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgendaTAP</string>
+    <string name="title_activity_contatos">ContatosActivity</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="email">E-mail</string>
+    <string name="site">Site</string>
+</resources>
